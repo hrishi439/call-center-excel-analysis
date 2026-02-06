@@ -63,4 +63,7 @@ and staffing requirements in a call centre environment.
 ## Repository Structure
 
 - `dataset/` → Raw call centre dataset  
-- `analysis/` → Excel file containing analysis and pivot tables  
+- `analysis/` → Excel file containing analysis and pivot tables
+
+## Dataset: 
+[Raw Dataset](https://github.com/hrishi439/call-center-excel-analysis/blob/main/Raw%20Dataset.xlsx)
